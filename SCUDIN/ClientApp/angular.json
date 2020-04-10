@@ -145,5 +145,8 @@
       }
     }
   },
-  "defaultProject": "SCUDIN"
+  "defaultProject": "SCUDIN",
+  "cli": {
+    "analytics": "ddbfcb85-84c5-4fc6-81a4-57a7a699f466"
+  }
 }
